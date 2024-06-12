@@ -2,16 +2,6 @@
 
 Esta é uma aplicação de TODO List que se integra com uma API de tarefas.
 
-## Informações dos Alunos
-
-### Aluno 1
-- **Nome:** Pedro Henrique Magalhães Gomes
-- **RA:** 22087525-2
-
-### Aluno 2
-- **Nome:** Eduardo Voltatone Ribeiro das Neves
-- **RA:** 22207439-2
-
 ## Descrição do Projeto
 
 O objetivo deste projeto é criar uma aplicação de TODO List utilizando HTML, CSS e JavaScript, integrada com uma API de tarefas. A aplicação permite listar, adicionar, editar, remover e filtrar tarefas.
